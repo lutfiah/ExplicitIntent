@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Demo Explicit Intent</string>
+    <string name="spm">Superman</string>
+    <string name="btm">Batman</string>
+</resources>
